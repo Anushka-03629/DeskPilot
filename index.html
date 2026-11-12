@@ -8,7 +8,7 @@
   <body>
     <div id="root"></div>
     <script>
-      // Shows any crash on screen instead of a blank page
+
       window.addEventListener('error', function (e) {
         document.body.insertAdjacentHTML('afterbegin', '<pre style="color:#f55;background:#222;padding:1rem;white-space:pre-wrap">Error: ' + e.message + ' (' + (e.filename||'') + ':' + e.lineno + ')</pre>');
       });
