@@ -5,11 +5,6 @@
 DeskPilot helps employees fix small IT problems themselves, so they don't need to call the service desk. When a problem can't be fixed that way, it creates a ticket that is already triaged for the agent. It is built with React and works with no setup in demo mode.
 
 
-## Screenshots
-
-| Assistant | Agent console | Insights |
-|---|---|---|
-| ![Assistant](docs/assistant.png) | ![Agent console](docs/agent.png) | ![Insights](docs/insights.png) |
 
 ## What it does
 
