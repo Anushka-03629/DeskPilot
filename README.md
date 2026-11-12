@@ -4,7 +4,6 @@
 
 DeskPilot helps employees fix small IT problems themselves, so they don't need to call the service desk. When a problem can't be fixed that way, it creates a ticket that is already triaged for the agent. It is built with React and works with no setup in demo mode.
 
-I work on a service desk, and a large share of our calls are things like "my VPN won't connect" or "I'm locked out". This project is my attempt at reducing that load.
 
 ## Screenshots
 
