@@ -2,7 +2,6 @@
 
 A React app that helps employees fix small IT problems themselves (**ticket deflection**) and gives service desk agents fully triaged tickets when self-help is not enough.
 
-Built by a service desk analyst who has seen how many calls are "my VPN won't connect".
 
 ## Features
 - **Employee assistant:** guided fixes one step at a time with "That fixed it / Still not working" buttons
